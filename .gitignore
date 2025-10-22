@@ -8,3 +8,5 @@ venv/
 .env/
 *.ipynb_checkpoints
 .DS_Store
+models/*.bin
+models/*.pt
